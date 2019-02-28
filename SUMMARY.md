@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [VPS - Debian 9](README.md)
 
