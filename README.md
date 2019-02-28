@@ -4,24 +4,30 @@ description: Installation and configuration
 
 # VPS - Debian 9
 
-## Getting Super Powers
+## Se connecter en ssh
 
-Becoming a super hero is a fairly straight forward process:
+Ouvrez votre terminal et taper la commande suivante :
 
 ```
-$ give me super-powers
+$ ssh root@IPv4_de_votre_VPS
 ```
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:
+La première fois il faut accepter le certificat ssh
 
 ```
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
 
+## Installer les mises à jours de Debian
 
+```text
+apt update
+apt upgrade
+apt dist-upgrade
+```
 
