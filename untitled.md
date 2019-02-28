@@ -1,5 +1,21 @@
 # Installation
 
+## Se connecter en ssh
+
+Ouvrez votre terminal et taper la commande suivante :
+
+```
+ssh root@IPv4_de_votre_VPS
+```
+
+Installer les mises à jours de Debian :
+
+```text
+apt update
+apt upgrade
+apt dist-upgrade
+```
+
 ## Créer un utilisateur
 
 Taper la commande suivante dans le terminal  :
