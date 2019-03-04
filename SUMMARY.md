@@ -2,10 +2,17 @@
 
 * [Welcome](README.md)
 
+## Frameworks
+
+* [Untitled](frameworks/untitled.md)
+
 ## Services
 
+* [Git](services/git.md)
+* [Homebrew](services/homebrew.md)
 * [NPM](services/npm.md)
 * [Zsh](services/zsh.md)
+* [Ionic](services/ionic.md)
 
 ## Servers
 
