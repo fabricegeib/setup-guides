@@ -56,3 +56,21 @@ sudo service apache2 status
 La mention "active \(running\)" doit apparaître.
 {% endhint %}
 
+Démarrer Apache 2 :
+
+```text
+service apache2 start 
+```
+
+Arrêter Apache 2 :
+
+```text
+service apache2 stop
+```
+
+Relancer, redémarrer ou recharger Apache 2 :
+
+```text
+service apache2 restart
+```
+
