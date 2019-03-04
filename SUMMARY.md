@@ -5,6 +5,7 @@
 ## Frameworks
 
 * [Hugo](frameworks/hugo.md)
+* [Tailwind CSS](frameworks/tailwind-css.md)
 
 ## Services
 
