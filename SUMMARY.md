@@ -4,7 +4,7 @@
 
 ## Frameworks
 
-* [Untitled](frameworks/untitled.md)
+* [Hugo](frameworks/hugo.md)
 
 ## Services
 
