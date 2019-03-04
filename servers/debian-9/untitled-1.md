@@ -46,3 +46,13 @@ su - mynewuser
 sudo apt-get install apache2 apache2-doc
 ```
 
+Il est possible de vérifier que le service Apache fonctionne correctement en utilisant la commande suivante :
+
+```text
+sudo service apache2 status
+```
+
+{% hint style="info" %}
+La mention "active \(running\)" doit apparaître.
+{% endhint %}
+
