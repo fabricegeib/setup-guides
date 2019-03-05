@@ -21,7 +21,7 @@ apt dist-upgrade
 Taper la commande suivante dans le terminal  :
 
 {% hint style="info" %}
-Remplacer mynewuser par le nom d'utilisateur souhaiter
+Remplacer "mynewuser" par le nom d'utilisateur souhaiter
 {% endhint %}
 
 ```
